@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: BotonFlotante(),
       theme: ThemeData(
-        primarySwatch: Colors.lightBlue,
+        primarySwatch: Colors.lightGreen,
       ),
     );
   }
