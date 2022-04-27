@@ -5,7 +5,12 @@ class BotonFlotante extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Center(child: Text("Boton Flotante"))),
+      appBar: AppBar(
+        title: Center(
+          child: Text("Boton Flotante")
+          )
+          ),
+          body:
     );
   }
 }
