@@ -12,7 +12,10 @@ class BotonFlotante extends StatelessWidget {
           ),
           body: Center(
             child: Column(
-              
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Text("Hola Mundo")
+              ],
             )
           )
     );
