@@ -10,7 +10,11 @@ class BotonFlotante extends StatelessWidget {
           child: Text("Boton Flotante")
           )
           ),
-          body:
+          body: Center(
+            child: Column(
+              
+            )
+          )
     );
   }
 }
